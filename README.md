@@ -2,7 +2,7 @@ Chat Analysis for WhatsApp: Uncover Conversational Insights
 
 📱 Are you curious about your WhatsApp conversations? Unlock a world of insights with  Chat Analysis for WhatsApp! 📈
 
-🔗 **Link to Project:** [Chat Analysis for WhatsApp]( https://chat-analysis-for-whatsapp.streamlit.app/)
+🔗 **Link to Project:** [Chat Analysis for WhatsApp](https://chat-analysis-for-whatsapp.streamlit.app/)
 
 📖 About the Project:
 The Chat Analysis for WhatsApp tool offers a deep dive into your chat history. Whether it's a group chat or a one-on-one conversation, simply upload your WhatsApp chat export (txt file), and our Streamlit-powered app will do the rest.
